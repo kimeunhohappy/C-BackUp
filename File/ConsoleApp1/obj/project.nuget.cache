@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "AhDbNXUL8fdw6EguXI+EN6pOAR/BAdHBxRggiHEtn9DD8Fq66ef2d1r9E3IRZXcD3zdT592pNr0JCD/f8mouAA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Administrator\\Desktop\\ConsoleApp1\\ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.3\\microsoft.netframework.referenceassemblies.1.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
